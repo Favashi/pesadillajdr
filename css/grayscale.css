@@ -116,7 +116,6 @@ a {
       font-size: 40px; 
       font-family: 'Special Elite', cursive;
       font-weight:bold;
-      text-transform: none !important;
       color: rgba(0, 0, 0, 0.2); 
       -webkit-text-stroke: 1px white;}
     .masthead .intro-body .intro-text {
