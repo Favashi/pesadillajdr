@@ -61,7 +61,8 @@ a {
   #mainNav .navbar-brand {
     font-weight: 700; }
   #mainNav a {
-    color: white; }
+    color: white; 
+    background:transparent;}
   #mainNav .navbar-nav .nav-item {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
