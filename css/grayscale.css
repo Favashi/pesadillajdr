@@ -110,7 +110,7 @@ a {
     .masthead .intro-body .brand-heading {
       font-size: 40px; 
       font-family: 'Metal Mania', cursive;
-      text-transform: none;}
+      text-transform: none !important;}
     .masthead .intro-body .intro-text {
       font-size: 18px; 
       font-family: 'Special Elite', cursive;}
