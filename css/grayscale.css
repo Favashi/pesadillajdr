@@ -150,12 +150,13 @@ a {
 
 .content-section {
   padding-top: 100px;}
-  .content-section a.inlinelink{
-    padding:2px;}
   .content-section .blockquote{
     line-height: 1em;}
   .content-section .blockquote p{
     margin-bottom:0;}
+
+a.inlinelink{
+    padding:2px;}
 
 .download-section {
   width: 100%;
