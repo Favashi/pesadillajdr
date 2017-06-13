@@ -218,10 +218,8 @@ ul.banner-social-buttons {
       padding: 0; }
       ul.banner-social-buttons li:last-child {
         margin-bottom: 0; } }
-
-footer {
+#bottom{
   width: 100%;
-  padding: 50px 0;
   color: white;
   background: url(../img/download_bg.jpg) no-repeat center center scroll;
   background-color: black;
@@ -229,6 +227,9 @@ footer {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;}
+
+footer {
+  padding: 50px 0;}
   footer p {
     font-size: 14px;
     margin: 0; }
